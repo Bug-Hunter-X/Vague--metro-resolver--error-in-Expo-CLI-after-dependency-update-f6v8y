@@ -1,0 +1,1 @@
+While building an Expo project, I encountered an error related to the `metro-resolver` package. The error message was vague and didn't pinpoint the exact cause, making it hard to track down the problem.  The error occurred after making seemingly innocuous changes to my project's dependencies, specifically after upgrading a library that uses `react-native-web`.
